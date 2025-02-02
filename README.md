@@ -1,0 +1,1 @@
+Examine presidential documents by pulling the documents using the federal register API and sending the documents to the OpenAI API for analysis. Will need to supply OpenAI API key.
