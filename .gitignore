@@ -76,3 +76,9 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+# files
+*.txt
+*.log
+*.csv
+*.json
